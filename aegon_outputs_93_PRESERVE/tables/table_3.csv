@@ -1,0 +1,7 @@
+Session Stage,Recently Viewed Artworks,Navigation Pauses,Voice Queries,Predicted Next Interaction,Prediction Horizon (s),Destination Node
+S1,4,5,0,Start gamified cultural task,4,R01
+S2,4,4,0,Enter related-artwork zone,4,N10
+S3,4,6,2,Return to previous artwork,8,N40
+S4,3,6,6,Return to previous artwork,7,N01
+S5,4,6,0,Open artwork details,5,N27
+S6,3,1,0,Request historical narration,4,N50

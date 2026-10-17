@@ -1,0 +1,8 @@
+Model,Accuracy (%),F1-Score (%),Engagement Prediction (%),Personalization Quality (%),Optimization Efficiency (%)
+KE-TOPSIS-PSO-SVR,83.68,83.08,92.71,51.28,70.61
+SEM-ANN,80.96,80.34,87.27,46.36,2.04
+AI-PCG-XR,81.13,79.91,95.72,50.46,73.06
+AIGC Cultural Platform,82.47,81.89,94.04,50.9,33.76
+VR Immersive-Factor Model,80.73,79.75,93.29,23.71,56.99
+AI-DQN Museum Optimization,82.64,82.17,94.39,42.23,71.29
+Proposed AEGON,86.4,86.04,92.71,63.82,69.51

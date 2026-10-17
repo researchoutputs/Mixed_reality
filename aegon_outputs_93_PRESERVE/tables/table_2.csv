@@ -1,0 +1,7 @@
+Interaction Window,Gaze Fixation (s),Head Rotation (deg/min),Gestures per Minute,Artwork Dwell Time (s),Predicted Audience State
+0-30 s,18.5,45,3,13,Initial exploration
+31-60 s,21.6,41,4,16,High engagement
+61-90 s,11.9,64,3,8,Confusion
+91-120 s,3.8,87,5,3,Confusion
+121-150 s,15.4,51,2,10,Focused interest
+151-180 s,24.7,35,4,20,Emotional connection
